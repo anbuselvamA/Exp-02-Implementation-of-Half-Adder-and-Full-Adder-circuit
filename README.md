@@ -39,8 +39,8 @@ Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 ```
-Developed by: sriram S
-RegisterNumber:  212222240105
+Developed by: Anbuselvam A
+RegisterNumber:  212222240009
 Half adder program:
 
 module fulladd (a,b,sum,carry);
